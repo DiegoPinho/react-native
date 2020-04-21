@@ -8,7 +8,7 @@ Repositório oficial do livro: React Native - Desenvolvimento de aplicativos mob
 
 <img src="cover-hd.jpg" alt="cover-hd" title="Capa do livro" height="500px" />
 
-Seja muito bem-vindo a era do React! Hoje não utilizamos o React para escrever aplicações web, mas também para criar ambientes tridimensionais imersivos (react360), aplicações desktop robustas e, é claro, aplicações mobile através do React Native! Neste repositório, você encontrará todos os recursos disponíveis para acompanhar a leitura do livro "React Native - Desenvolvimento de aplicativos mobile com React".
+Seja muito bem-vindo a era do React! Hoje não utilizamos o React somente para escrever aplicações web, mas também para criar ambientes tridimensionais imersivos (react360), aplicações desktop robustas e, é claro, aplicações mobile através do React Native! Neste repositório, você encontrará todos os recursos disponíveis para acompanhar a leitura do livro "React Native - Desenvolvimento de aplicativos mobile com React".
 
 Como estudar
 ------
@@ -33,4 +33,4 @@ Tendo algum dúvida, crítica, sugestão ou até mesmo encontrar um erro, não h
 
 **React Native - Desenvolvimento de aplicativos mobile com React** © 2020, Diego Martins de Pinho e Bruna de Freitas Esculedario. Publicado pela editora [Casa do Código](https://www.casadocodigo.com.br/). Todos os direitos reservados.
 
-> Site oficial [entendendoes6.com.br](https://livroreactnative.com.br/) &nbsp;&middot;&nbsp;
+> Site oficial [livroreactnative.com.br](https://livroreactnative.com.br/) &nbsp;&middot;&nbsp;
