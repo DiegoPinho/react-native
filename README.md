@@ -6,7 +6,7 @@ React Native - Desenvolvimento de aplicativos mobile com React
 ======================
 Repositório oficial do livro: React Native - Desenvolvimento de aplicativos mobile com React
 
-<img src="cover-hd.jpg" alt="cover-hd" title="Capa do livro" height="500px" />
+<img src="cover-hd.png" alt="cover-hd" title="Capa do livro" height="500px" />
 
 Seja muito bem-vindo a era do React! Hoje não utilizamos o React somente para escrever aplicações web, mas também para criar ambientes tridimensionais imersivos (react360), aplicações desktop robustas e, é claro, aplicações mobile através do React Native! Neste repositório, você encontrará todos os recursos disponíveis para acompanhar a leitura do livro "React Native - Desenvolvimento de aplicativos mobile com React".
 
