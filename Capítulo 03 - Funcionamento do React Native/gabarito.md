@@ -12,12 +12,8 @@ SPA é a sigla para Single Page Application que, em tradução livre, significa 
 ## questoes[2].resposta
 
 ``` javascript
-class App extends React.Component {
-  render() {
-    return (
-      <Text>Eu estou aprendendo React Native cheio de classe.</Text>
-    )
-  }
+export default function() {
+  return <Text>Eu estou aprendendo React Native.</Text>
 }
 ```
 
